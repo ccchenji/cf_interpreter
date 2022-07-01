@@ -1,0 +1,3 @@
+TEST_DOUBLE = 4.3;
+TEST_INT= 4;
+TEST_STR = "world";
